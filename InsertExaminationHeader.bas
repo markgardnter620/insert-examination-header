@@ -22,7 +22,7 @@ Sub InsertExaminationHeader()
 ' The brief outline of instructions given below is not complete.
 '
 ' If there is any question whether a copy is unmodified, obtain a fresh copy with
-' https://github.com/markgardnter620/insert-examination-header/releases/latest/download/InsertExaminationHeader.zip
+'https://github.com/markgardnter620/insert-examination-header/releases/download/v1.0/InsertExaminationHeader.zip
 '
 ' INSTRUCTIONS (abbreviated):
 ' See the distribution ReadMe.txt for full instructions. Briefly:
